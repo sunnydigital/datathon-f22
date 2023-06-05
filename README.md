@@ -13,4 +13,4 @@ Teammates:
 
 The goal in this Datathon is to act as developers for the host company of this datathon, Peak.AI, and develop a recommender system model for our customer, the Brazilian e-commerce company Olist, to advertise products to users based off of previous purchase history
 
-<img src="https://github.com/sunnydigital/cv-f22/blob/main/images/gifs/cosine_beta_schedule-no_attention05-interval10.gif" alt="Olist Presentation Overview" width="100%">
+<img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-overview.png" width="100%">
