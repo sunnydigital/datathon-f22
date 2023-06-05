@@ -27,4 +27,5 @@ We then joined all necessary tables to determine all relevant orders based on th
 
 We then follow the below steps to finalize the data for modeling:
 
-<img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-overview.png" width="100%">
+<img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-preparation.png" width="100%">
+
