@@ -37,7 +37,15 @@ We used a k-Nearest Neighbor model, to determine a mapping between "features" (e
 <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-recs1.png" alt="Recommendation Procedure 1" width="49.7%"> <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-recs2.png" alt="Recommendation Procedure 2" width="49.7%">
 </p>
 
-## "Product Category" Metric Distance
+## Generating Recommendations
+
+With this, our model is ready to generate recommendations. We accept an input parameter "k" for the number of closest products to generate, and do so using a modified euclidiean distance metric based on product category:
+
+<p align="center">
+<img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-dist1.png" alt="Distance 1" width="49.7%"> <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-dist2.png" alt="Distance 2" width="49.7%">
+</p>
+
+### "Product Category" Metric Distance
 
 In order to determine a "distance" metric for our model to follow, we decided to scale the k-NN distance by the "cosine similarity" of a product's category to ensure similar placement of similar products, using the Global Vector (GloVe) 50d embedding:
 
