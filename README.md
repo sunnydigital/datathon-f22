@@ -27,4 +27,9 @@ We then joined all necessary tables to determine all relevant orders based on th
 
 We then follow the below steps to finalize the data for modeling:
 
-<img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-overview.png" width="100%">
+<img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-preparation.png" width="100%">
+
+## Model
+
+We used a k-Nearest Neighbor model, to determine a mapping between "features" (e.g. cost, location, etc.) and "label" (e.g. Lamp), and minimize a specific metric distance for the labels of previously purchased items to the label of the target item. This procedure is shown below:
+
