@@ -33,3 +33,14 @@ We then follow the below steps to finalize the data for modeling:
 
 We used a k-Nearest Neighbor model, to determine a mapping between "features" (e.g. cost, location, etc.) and "label" (e.g. Lamp), and minimize a specific metric distance for the labels of previously purchased items to the label of the target item. This procedure is shown below:
 
+<p align="center">
+<img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-recs1.png" alt="Recommendation Procedure 1" width="49.7%"> <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-recs2.png" alt="Recommendation Procedure 2" width="49.7%">
+</p>
+
+## "Product Category" Metric Distance
+
+In order to determine a "distance" metric for our model to follow, we decided to scale the k-NN distance by the "cosine similarity" of a product's category to ensure similar placement of similar products, using the Global Vector (GloVe) 50d embedding:
+
+<p align="center">
+<img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-recs1.png" alt="Recommendation Procedure 1" width="49.7%"> <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-recs2.png" alt="Recommendation Procedure 2" width="49.7%">
+</p>
