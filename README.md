@@ -52,3 +52,7 @@ In order to determine a "distance" metric for our model to follow, we decided to
 <p align="center">
 <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-cos-sim1.png" alt="Cosime Similarity 1" width="49.7%"> <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-cos-sim2.png" alt="Cosine Similarity 2" width="49.7%">
 </p>
+
+## Conclusion
+
+Please refer to the file 
