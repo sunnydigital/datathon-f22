@@ -55,4 +55,4 @@ In order to determine a "distance" metric for our model to follow, we decided to
 
 ## Conclusion
 
-Please refer to the file 
+Please refer to the file [peak-ai-x-nyu-dsc-datathon-team-7-submission.ipynb](https://github.com/sunnydigital/datathon-f22/blob/main/peak-ai-x-nyu-dsc-datathon-team-7-submission.ipynb)
