@@ -15,8 +15,16 @@ The goal in this Datathon is to act as developers for the host company of this d
 
 <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-overview.png" width="100%">
 
+## Data Processing
+
 We then joined all necessary tables to determine all relevant orders based on the primary key of `customer_id`, at the neds related to `product_id` with the entity relationship diagrams shown below:
 
 <p align="center">
 <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-erd1.png" alt="Entity Relationship Diagram 1" width="49.7%"> <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-erd2.png" alt="Entity Relationship Diagram 2" width="49.7%">
 </p>
+
+### Data Preparation
+
+We then follow the below steps to finalize the data for modeling:
+
+<img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-overview.png" width="100%">
