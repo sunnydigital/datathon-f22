@@ -53,6 +53,6 @@ In order to determine a "distance" metric for our model to follow, we decided to
 <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-cos-sim1.png" alt="Cosime Similarity 1" width="49.7%"> <img src="https://github.com/sunnydigital/datathon-f22/blob/main/assets/peak-presentation-cos-sim2.png" alt="Cosine Similarity 2" width="49.7%">
 </p>
 
-## Conclusion
+## Notebook
 
 Please refer to the file [peak-ai-x-nyu-dsc-datathon-team-7-submission.ipynb](https://github.com/sunnydigital/datathon-f22/blob/main/peak-ai-x-nyu-dsc-datathon-team-7-submission.ipynb)
